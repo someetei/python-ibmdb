@@ -10,7 +10,7 @@ import os
 import unittest
 import ibm_db
 #need to add this line below to each file to make the connect parameters available to all the test files
-import config
+#import config
 from testfunctions import IbmDbTestFunctions
 
 name = 'name'
